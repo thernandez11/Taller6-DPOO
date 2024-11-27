@@ -1,0 +1,13 @@
+Instrucciones Aplicación Swing.
+
+Esta es una aplicación con interfaz organizada e intuitiva, inicie la aplicación y podrá crear y ver información de diferentes restaurantes.
+
+El programa tiene 3 ventanas principales.
+
+Ventana principal: Tiene una lista con los restaurantes disponibles, al dar click en su nombre en la lista, podrá ver su información (nombre, calificación y estado de visita), además, podrá darle click al botón de crear para acceder a la ventana de creación de restaurantes y si le da click al botón de ver todos, podrá ver los restaurantes en el mapa, decidiendo ver todos o solo los que ya fueron visitados.
+
+Ventana agregar restaurante: Se puede ver el mapa de un area pequeña, puede dar click en el lugar donde se ubique el restaurante que quiere agregar y puede usar el cuadro de texto y los cuadros de selección para definir el nombre, calificación y estado de visita del restaurante. Para confirmar dele click al botón de crear, para cerrar sin generar ningún restaurante, dele click a cerrar.
+
+Ventana ver restaurantes: Podrá ver los restaurantes ubicados en el mapa, puede elegir si verlos todos o solo los que ya ha visitado con los botones radiales en la zona inferior, elija todos para verlos todos y visitados para ver solo los que ha visitado, los restaurantes aparecerán como un punto rojo con su nombre al costado en el mapa, cierre la ventana para parar de verlo.
+
+Estas instrucciones deberían ser mas que suficientes para asegurar una experiencia satisfactoria para cualquier usuario de la aplicación.
